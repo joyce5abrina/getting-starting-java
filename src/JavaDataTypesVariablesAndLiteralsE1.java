@@ -76,8 +76,29 @@ public class JavaDataTypesVariablesAndLiteralsE1 {
 
 
 
+    // Exercise 2.1.4
+    //For each of the following statements below, declare a variable and initialize it to a null value. Use the most appropriate data types and identifier names.
+    //
+    //to store a customer's last name
+    //to record the number of customers
+    //to record the customer's outstanding balance
+    //to store the customer's phone number
 
+        String costumersLastName = "";
+        int numberOfCostumers = 0;
+        double outstandingBalance = 0.0D;
+        String costumersPhone = ("");
+        System.out.println(costumersLastName);
+        System.out.println(numberOfCostumers);
+        System.out.println(outstandingBalance);
+        System.out.println(costumersPhone);
+//
 
+        String first = "Fred";
+        String last = "Foo";
+        first = last;
+        System.out.println(first);
+        System.out.println(last);
 
     }
 
