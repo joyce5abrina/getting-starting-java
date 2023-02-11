@@ -21,6 +21,32 @@ public class LessonArrayss {
         System.out.println(number.length);
         System.out.println(Arrays.toString(names));
         System.out.println(names.length);
+
+
+        // Exercise:
+        //Create an array of type String called cars.
+        //
+        //
+        //
+        //
+        // = {"Volvo", "BMW", "Ford"}
+        String [] cars = {"Volvo", "BMW", "Ford"};
+        System.out.println(Arrays.toString(cars));
+        System.out.println(cars[1]);
+        System.out.println(cars[2]);
+        System.out.println(cars[0]);
+
+// Arrays and indexes
+        int [] numb = {2, 0, 1 ,90, 100};
+        int oneHundred = numb [4];
+        int four = numb [numb.length -1];
+        System.out.println(oneHundred);
+        System.out.println(four);
+// change an Array Element
+        //  String[] cars = {"Volvo", "BMW", "Ford", "Mazda"};
+       // cars[0] = "Opel";
+      //  System.out.println(cars[0]);
+// Now outputs Opel instead of Volvo
     }
 
 
