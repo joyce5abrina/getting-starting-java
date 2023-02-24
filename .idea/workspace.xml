@@ -1,14 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="48c62dd3-e6ae-4ff4-8f76-f7c2afc1d5f5" name="Changes" comment="" />
+    <list default="true" id="48c62dd3-e6ae-4ff4-8f76-f7c2afc1d5f5" name="Changes" comment="BasicSelectionStatements- Exercise 1">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AssignmentsAndArithmeticExpressionsExercises.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learning1/Monday1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwitchStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/retest/InputAndOutput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/retest/Introduction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicSelectionStatements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicSelectionStatements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TernaryOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TernaryOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/amigoscode/Main.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2JmoiGWcGIXRXiIBjds3Dl6uPjm" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -16,14 +47,87 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/amigoscode" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SwitchStatement">
+    <configuration name="Exercise2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise2" />
+      <module name="learning-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InputAndOutput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="retest.InputAndOutput" />
+      <module name="learning-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="retest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Introduction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="retest.Introduction" />
+      <module name="learning-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="retest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loops" />
+      <module name="learning-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwitchStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwitchStatement" />
+      <module name="learning-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SwitchStatement" />
+        <item itemvalue="Application.Exercise2" />
+        <item itemvalue="Application.Loops" />
+        <item itemvalue="Application.InputAndOutput" />
+        <item itemvalue="Application.Introduction" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -32,7 +136,237 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672692750693</updated>
+      <workItem from="1672692752527" duration="3130000" />
+      <workItem from="1672784182430" duration="914000" />
+      <workItem from="1672847561062" duration="11076000" />
+      <workItem from="1673541201529" duration="88000" />
+      <workItem from="1674875005451" duration="21366000" />
+      <workItem from="1675272434053" duration="1144000" />
+      <workItem from="1675544150401" duration="6959000" />
+      <workItem from="1675635641469" duration="247000" />
+      <workItem from="1675716434949" duration="320000" />
+      <workItem from="1675881658099" duration="1150000" />
+      <workItem from="1675882912361" duration="793000" />
+      <workItem from="1676131995734" duration="4153000" />
+      <workItem from="1676140487196" duration="12967000" />
+      <workItem from="1676432409412" duration="251000" />
+      <workItem from="1676994406484" duration="2330000" />
+      <workItem from="1677102551638" duration="983000" />
+      <workItem from="1677178253885" duration="3380000" />
+      <workItem from="1677182012224" duration="6482000" />
+      <workItem from="1677267296976" duration="12351000" />
+      <workItem from="1677280456816" duration="977000" />
+      <workItem from="1677281562678" duration="1102000" />
     </task>
+    <task id="LOCAL-00001" summary="refact: add package name">
+      <created>1672696453318</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672696453318</updated>
+    </task>
+    <task id="LOCAL-00002" summary="refact: add package name">
+      <created>1672869777032</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1672869777032</updated>
+    </task>
+    <task id="LOCAL-00003" summary="refact: add package name">
+      <created>1674929005610</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674929005610</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Feature 6">
+      <created>1674936947582</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1674936947582</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Feature 6.1">
+      <created>1674938314793</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1674938314794</updated>
+    </task>
+    <task id="LOCAL-00006" summary="feat: add letterCount class">
+      <created>1675548877651</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1675548877651</updated>
+    </task>
+    <task id="LOCAL-00007" summary="feat: add if and else statements">
+      <created>1675552573520</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1675552573520</updated>
+    </task>
+    <task id="LOCAL-00008" summary="UsernameandPassword program">
+      <created>1676145037123</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1676145037123</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Switch.Statement-LEARNING">
+      <created>1676148941792</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1676148941792</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Switch.Statement- feature Display which day of the week it is">
+      <created>1676149998146</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1676149998146</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Arrays-Lesson">
+      <created>1676153951454</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1676153951454</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Arrays-Lesson">
+      <created>1676155494569</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1676155494569</updated>
+    </task>
+    <task id="LOCAL-00013" summary="BasicSelectionStatements- Exercise 1">
+      <created>1676996417576</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1676996417576</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="refact: add package name" />
+    <MESSAGE value="Feature 6" />
+    <MESSAGE value="Feature 6.1" />
+    <MESSAGE value="feat: add letterCount class" />
+    <MESSAGE value="feat: add if and else statements" />
+    <MESSAGE value="UsernameandPassword program" />
+    <MESSAGE value="Switch.Statement-LEARNING" />
+    <MESSAGE value="Switch.Statement- feature Display which day of the week it is" />
+    <MESSAGE value="Arrays-Lesson" />
+    <MESSAGE value="BasicSelectionStatements- Exercise 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="BasicSelectionStatements- Exercise 1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ArithmeticOperations.java</url>
+          <line>1</line>
+          <properties class="ArithmeticOperations" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java</url>
+          <line>1</line>
+          <properties class="Scratch" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ifStatements.java</url>
+          <line>2</line>
+          <properties class="ifStatements" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/TernaryOperator.java</url>
+          <line>2</line>
+          <properties class="TernaryOperator" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/JavaDataTypesVariablesAndLiteralsE1.java</url>
+          <line>1</line>
+          <properties class="JavaDataTypesVariablesAndLiteralsE1" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Learning1/UsernameAndPassword.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LessonArrayss.java</url>
+          <line>1</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/retest/InputAndOutput.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Exercise2.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Exercise2.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Exercise2.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SwitchStatement.java</url>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
